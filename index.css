@@ -1,0 +1,10 @@
+/* index.css content */
+body {
+    font-family: Arial, sans-serif;
+}
+
+#api-data {
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    padding: 20px;
+}
